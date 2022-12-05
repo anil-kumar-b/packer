@@ -64,7 +64,7 @@ require (
 	github.com/hashicorp/packer-plugin-alicloud v1.0.4
 	github.com/hashicorp/packer-plugin-ansible v1.0.3
 	github.com/hashicorp/packer-plugin-azure v1.3.1
-	github.com/hashicorp/packer-plugin-chef v1.0.2
+	github.com/anil-kumar-b/packer-plugin-chef v0.0.1
 	github.com/hashicorp/packer-plugin-cloudstack v1.0.2
 	github.com/hashicorp/packer-plugin-converge v1.0.1
 	github.com/hashicorp/packer-plugin-docker v1.0.8
